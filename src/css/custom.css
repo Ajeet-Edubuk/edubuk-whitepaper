@@ -7,7 +7,10 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-toc-link-color:#ffffff;
-  --ifm-menu-color:#008888;
+  --ifm-menu-color:#FFD700;
+  --ifm-color-content-secondary:#FFD700;
+  --ifm-menu-color-active:rgb(0, 183, 255);
+  --ifm-breadcrumb-color-active:rgb(0, 183, 255);
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
